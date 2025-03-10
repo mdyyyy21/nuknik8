@@ -1,0 +1,11 @@
+.body{
+    display: flex;
+}
+
+.footer{
+    width: 100%;
+    background-color: blanchedalmond;
+    text-align: center;
+    margin: 0%;
+    padding: 20px;
+}
